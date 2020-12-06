@@ -11,6 +11,7 @@ Then you should create a table named "contact" with five columns => contact_id, 
 		dataSource.setUsername("root");
 		dataSource.setPassword("root");
 
+You can import the project as an existing Maven project to the Eclipse.
 
 
 
